@@ -8,6 +8,6 @@ int newfunc()
 int main()
 {
 	newfunc();
-	printf("Helo, World\n");
+	printf("Hello, World\n");
 }
 
